@@ -1,0 +1,1 @@
+A small website to let some friends bet on french football results each week
